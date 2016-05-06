@@ -25,3 +25,4 @@ message = { garbage, pair }, garbage
 
 * [github.com/kr/logfmt](https://github.com/kr/logfmt) Go package ([godoc](https://godoc.org/github.com/kr/logfmt))
 * [Node logftm logger and parser](https://github.com/csquared/node-logfmt)
+* [github.com/heroku/slog](github.com/heroku/slog) Go package for structured logging ([godoc](https://godoc.org/github.com/heroku/slog))
